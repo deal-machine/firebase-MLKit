@@ -20,9 +20,17 @@ O kit ML disponibilizado pelo Firebase oferece ferramentas que tornam a aplicaç
 <li>Custom model inference* :iphone:</li>
 </ul>
 Mais informações em <a href="https://pub.dev/packages/google_ml_kit">Google ML Kit</a>
-
+<p align="center">
+  <img src="assets/images/google_ml.png"  alt="accessibility text">
+</p>
+<br>
 Para iniciar um projeto é necessário acessar o <a href="console.firebase.google.com">Console Firebase</a>, lá é possivel encontrar diversos recursos do Firebase.
 É necessário registrar o projeto através da página inicial e baixar o arquivo <strong>google-services.json</strong>, para finalizar adicionar o <strong>SDK</strong> do Firebase.
+
+<p align="center">
+  <img src="assets/images/add_project_firebase.png" title="hover text">
+  <img src="assets/images/firebase_ml_kit.png"  alt="accessibility text">
+</p>
 
 <hr>
 <h4 align="right">:arrow_down: Para mais informações sobre o <strong>Flutter</strong><h4>
