@@ -6,7 +6,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:firebasekit/database/database.dart';
 import 'package:firebasekit/pages/sign-in.dart';
 import 'package:firebasekit/pages/sign-up.dart';
-import 'package:firebasekit/services/facenet.dart';
+import 'package:firebasekit/services/facenet.service.dart';
 import 'package:firebasekit/services/ml_kit_service.dart';
 
 class MyHomePage extends StatefulWidget {
