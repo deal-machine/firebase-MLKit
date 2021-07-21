@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67195910071",
+    "project_id": "fir-mlkit-ee010",
+    "storage_bucket": "fir-mlkit-ee010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67195910071:android:f04e782c91b2f326d59a32",
+        "android_client_info": {
+          "package_name": "dealmachine.firebasekit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67195910071-jb8sirf7pm6ejnoa0us140cavkfnaauf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwjqS9ixDjb_L6PPmEZh7k6hxxj30rHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67195910071-jb8sirf7pm6ejnoa0us140cavkfnaauf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
