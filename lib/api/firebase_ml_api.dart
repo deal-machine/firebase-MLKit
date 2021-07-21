@@ -29,7 +29,7 @@ class FirebaseApi {
     for (TextBlock block in visionText.blocks) {
       for (TextLine line in block.lines) {
         for (TextElement word in line.elements) {
-          text = text + word.text + ' ';
+          text = text + word.text.toString() + ' ';
         }
         text = text + '\n';
       }
