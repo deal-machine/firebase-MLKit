@@ -7,17 +7,20 @@
 A relação do Machine Learning, que chamamos aprendizado de máquina, e aplicações mobile estão cada vez mais próximas. O desenvolvimento dessas tecnologias pode garantir a melhoria na experiência do usuário, desde a interface, acessibilidade, usabilidade e segurança.
 O kit ML disponibilizado pelo Firebase oferece ferramentas que tornam a aplicação inteligente e acessivel com Google Cloud Platform como base na nuvem. Reconhecimento visual, detecção de imagem, linguagem nativa e tradução, entre opções customizaveis
 <dl>
-<dd>:iphone: :cloud: Reconhecimento de texto</dd>
-<dd>:iphone: Detecção facial</dd>
-<dd>:iphone: Scanner de códigos</dd>
-<dd>:iphone: :cloud: Marcação de imagem</dd>
-<dd>:iphone: Detecção e monitoramento de Objeto</dd>
-<dd>:cloud: Reconhecimento de marca</dd>
-<dd>:iphone: Identificação de linguagem</dd>
-<dd>:iphone: Tradução</dd>
-<dd>:iphone: Resposta inteligênte</dd>
-<dd>:iphone: AutoML model inference*</dd>
-<dd>:iphone: Custom model inference*</dd>
+<dt>:iphone: :cloud:</dt>
+<dd> Reconhecimento de texto</dd>
+<dd> Marcação de imagem</dd>
+<dt>:cloud:</dt>
+<dd>Reconhecimento de marca</dd>
+<dt>:iphone:</dt>
+<dd> Detecção facial</dd>
+<dd> Scanner de códigos</dd>
+<dd> Detecção e monitoramento de Objeto</dd>
+<dd> Identificação de linguagem</dd>
+<dd> Tradução</dd>
+<dd> Resposta inteligênte</dd>
+<dd> AutoML model inference*</dd>
+<dd> Custom model inference*</dd>
 </dl>
 Mais informações em <a href="https://pub.dev/packages/google_ml_kit">Google ML Kit</a>
 <br><br>
