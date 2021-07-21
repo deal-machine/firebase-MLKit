@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:firebasekit/pages/home.dart';
 
 void main() {
-  runApp(MyApp());
+  const myApp = MyApp();
+  runApp(myApp);
 }
 
 class MyApp extends StatelessWidget {
-  // const MyApp({Key? key}) : super(key: key);
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.brown,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-        home: MyHomePage(),
+        home: Scaffold(),
         debugShowCheckedModeBanner: false);
   }
 }
